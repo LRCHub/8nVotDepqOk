@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Time after time ～花舞う街で～ （theater version）",
+  "base_artist": "倉木麻衣",
+  "createdAt": "2026-02-18T13:20:14.738558Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/01_Time_After_Time_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Viggo Dyst",
+      "has_synced": true,
+      "path": "select/02_Time_After_Time_Viggo_Dyst.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Toni Basil",
+      "has_synced": false,
+      "path": "select/03_Time_After_Time_Toni_Basil.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/04_Time_After_Time_Novaspace.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "GUNSHIP",
+      "has_synced": false,
+      "path": "select/05_Time_After_Time_GUNSHIP.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Time After Time - Vocal Version",
+      "artist": "Chet Baker",
+      "has_synced": true,
+      "path": "select/06_Time_After_Time_-_Vocal_Version_Chet_Baker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/07_Time_After_Time_Chet_Baker.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/08_Time_After_Time_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Caroline Baran",
+      "has_synced": true,
+      "path": "select/09_Time_After_Time_Scott_Bradlee's_Postmodern_Jukebox_feat._Caroline_Baran.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/10_Time_After_Time_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Time After Time - Live",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Sara Niemietz",
+      "has_synced": false,
+      "path": "select/11_Time_After_Time_-_Live_Scott_Bradlee's_Postmodern_Jukebox_feat._Sara_Niemietz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Time After Time (Live)",
+      "artist": "Scott Bradlee's Postmodern Jukebox Sara Niemietz",
+      "has_synced": false,
+      "path": "select/12_Time_After_Time_(Live)_Scott_Bradlee's_Postmodern_Jukebox_Sara_Niemietz.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Chet Baker Quartet",
+      "has_synced": false,
+      "path": "select/13_Time_After_Time_Chet_Baker_Quartet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Time After Time",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/14_Time_After_Time_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Time After Time (After Time Mix)",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/15_Time_After_Time_(After_Time_Mix)_Novaspace.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time after time〜花舞う街で〜",
+      "artist": "倉木 麻衣",
+      "has_synced": false,
+      "path": "select/pl_01_Time_after_time〜花舞う街で〜_倉木_麻衣.txt"
+    }
+  ]
+}
